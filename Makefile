@@ -2,7 +2,7 @@ PROG=ytfzf
 PREFIX=/usr/local
 BINDIR=${PREFIX}/bin
 DOCDIR=${PREFIX}/share/doc/ytfzf
-MANDIR=${PREFIX}/share/man                           Изменение 1
+MANDIR=${PREFIX}/share/man                           Изменение 2
 LICENSEDIR=${PREFIX}/share/licenses/ytfzf
 
 YTFZF_SYSTEM_ADDON_DIR=${PREFIX}/share/ytfzf/addons
