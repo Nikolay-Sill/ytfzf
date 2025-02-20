@@ -9,7 +9,7 @@ YTFZF_SYSTEM_ADDON_DIR=${PREFIX}/share/ytfzf/addons
 
 .DEFAULT_GOAL := default
 
-all:                      Изменение 3 в ветке branch2 
+                      Изменение 3 в ветке branch2 
 
 default: install doc
 
