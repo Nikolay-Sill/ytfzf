@@ -9,7 +9,7 @@ YTFZF_SYSTEM_ADDON_DIR=${PREFIX}/share/ytfzf/addons
 
 .DEFAULT_GOAL := default
 
-all:                             Изменение 5
+all:                             Изменение 6
 
 default: install doc
 
